@@ -1,0 +1,4 @@
+- La carpeta Gràfiques conté totes les comandes, sprints i gràfiques fetes en Jupyter Notebook.
+- La carpeta datasets conté tots els datasets utilitzats en el projecte.
+- El seguiment s'ha realitzat en el document de Word Projecte_seguiment.docx, per tant el projecte final esta realitzat en el document de Word.
+- Del document de Word del seguiment també hi ha un pdf, el qual es el mateix seguiment pero amb el format esmentat (.PDF).
